@@ -1,0 +1,4 @@
+logs/*.log
+*.lock
+__pycache__
+SenKongDao_config.txt
