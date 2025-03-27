@@ -1,3 +1,13 @@
+# 说明
+个人为了作为MAA开始前脚本使用,利用DeepSeek添加了如下功能:
+1. 日志打印(loguru)
+2. 简单的日期锁,确保每天只会执行一次
+移除了:
+1. .github/workflow
+2. docker
+
+
+
 # SenKongDao
 明日方舟森空岛签到Python程序
 
